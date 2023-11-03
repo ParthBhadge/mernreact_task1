@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AnushkaPatil1604/React-Task-1-main/static/css/main.d4245ef1.css",
+    "main.js": "/AnushkaPatil1604/React-Task-1-main/static/js/main.762cf5e2.js",
+    "static/js/787.347f5e04.chunk.js": "/AnushkaPatil1604/React-Task-1-main/static/js/787.347f5e04.chunk.js",
+    "index.html": "/AnushkaPatil1604/React-Task-1-main/index.html",
+    "main.d4245ef1.css.map": "/AnushkaPatil1604/React-Task-1-main/static/css/main.d4245ef1.css.map",
+    "main.762cf5e2.js.map": "/AnushkaPatil1604/React-Task-1-main/static/js/main.762cf5e2.js.map",
+    "787.347f5e04.chunk.js.map": "/AnushkaPatil1604/React-Task-1-main/static/js/787.347f5e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4245ef1.css",
+    "static/js/main.762cf5e2.js"
+  ]
+}
